@@ -1,0 +1,14 @@
+body {
+	background: url(images/smokeitall.jpg);
+}
+#nav li {
+list-style-type: none;
+display: inline-block;
+padding: 0 18px;
+align-content: center;
+}
+
+#nav a{
+text-decoration: none;
+color: #ffffff;
+}
